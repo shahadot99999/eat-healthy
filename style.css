@@ -59,14 +59,55 @@ section {
 
 recipie-border {
     width: 40%;
-    margin-left: 5%;
-    margin-right: 5%;
-    padding-left: 20px;
-    border-radius: 20px;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 40px;
+    border-radius: 10px;
     box-shadow: 10px 10px 50px gray;
     border-left: 7px solid;
 }
 
 .R {
     text-align: left;
+}
+
+.box {
+
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.box-border {
+
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+
+}
+
+.footer {
+    text-align: center;
+}
+
+.footer-color {
+    color: rgb(243, 185, 110);
+}
+
+.footer-color1 {
+    color: dimgray;
+}
+
+.footer-text {
+    text-align: center;
+}
+
+.footer-color2 {
+    color: rgb(216, 213, 210);
+}
+
+.footer-background {
+    background-color: black;
 }
