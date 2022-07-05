@@ -1,0 +1,45 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.orange-color {
+    color: orange;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 150%;
+    top: 0%;
+}
+
+.order-now {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: black;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
